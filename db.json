@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "Fresh Fruit 100%",
+      "date": "2022-06-27T19:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
